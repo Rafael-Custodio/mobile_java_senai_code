@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">calculadora_imc</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="calculo">Calculadora de IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_calculo">Resultado do Cálculo</string>
+    <string name="classificacao_resultado">Classificacao do Resultado</string>
+    <string name="classificacao">Classificacao</string>
+    <string name="altura">Digite sua altura</string>
+    <string name="peso">Digite seu peso</string>
+
+
+</resources>
